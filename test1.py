@@ -1,4 +1,4 @@
-print("Welcome to git and coding")
+print("Welcome to git")
 
 for i in range(1,10):
     print(i)
